@@ -1,4 +1,4 @@
-  
+
 ## About Us
 
 This is a sample website created through the process of my technical development as guided by the exeptional "Learn Enough™" series of tutorials. The creation of this website, specifically, is guided by the ["Learn Enough HTML to Be Dangerous"][Learn Enough] tutorial, the first in the Learn Enough™ program's "Web Basics" series (the second series in its program).  
@@ -13,4 +13,3 @@ With that said, I will leave you with a quote \(using "lazy" Markdown syntax\)..
 	 "Learn Enough HTML to Be Dangerous"
 [home]: https://hgiaco.github.io/sample_website/index.html
 	 "home page"
-
